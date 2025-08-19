@@ -61,8 +61,8 @@ Your AWS user/role needs the following permissions:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/sohaibmohd18/Terraform-AWS-EKS.git
+cd Terraform-AWS-EKS
 ```
 
 ### 2. Set Up Backend (Optional but Recommended)
